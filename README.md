@@ -17,8 +17,13 @@ Otherwise see: http://echonest.github.io/remix/
 Clone the folder and navigate to it. 
 Run:
 ```
-./drums_trap.py inputfilename outputfilename mix [ --beats pathtobeatfile breakparts measures ] [ --samples your own samples directory ] 
+./drums_trap.py inputfilename outputfilename mix [ --beats pathtobeatfile breakparts measures ] [ --samples samplesdirectory ] 
 ```
+- pathtobeatfile being a specific beat file you would like to use, otherwise it will use a random loop from the ones provided.
+- breakparts are the subdivision of the hits in the drum loop (64 for all the ones provided)
+- measures are the number of measures in the drum loop (4 for all the ones provided)
+- samplesdirectory is if you want to use your own custom samples
+
 Wrote and tested with mp3 files, however the following formats should also work:
 wav, au, ogg, m4a, mp4.
 
