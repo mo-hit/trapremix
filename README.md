@@ -7,18 +7,18 @@ Adds hip-hop beats and samples commonly found in southern hip-hop to songs. Very
 #Requirements
 
 Requires the Echonest python library to work. If you have pip, Run:
-...
+```
 sudo pip install remix
-...
+```
 
 Otherwise see: http://echonest.github.io/remix/
 
 #Use
 Clone the folder and navigate to it. 
 Run:
-...
+```
 ./drums_trap.py inputfilename outputfilename mix [ --beats pathtobeatfile breakparts measures ] [ --samples your own samples directory ] 
-
+```
 Wrote and tested with mp3 files, however the following formats should also work:
 wav, au, ogg, m4a, mp4.
 
