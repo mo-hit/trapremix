@@ -24,7 +24,7 @@ wav, au, ogg, m4a, mp4.
 
 #Acknowledgements
 -A lot of the code is from the echonest library examplse
--This [reddit thread][http://www.reddit.com/r/hiphopheads/comments/1vxdag/guys_i_need_a_favor/]
--Samples were from this [reddit thread][http://www.reddit.com/r/DJs/comments/1vhaez/sample_pack_not_sure_if_anyone_is_interested_but/]
--Beat loops were from [here][http://www.stayonbeat.com/2013/11/16/free-trap-drum-loops/]
+-This [reddit thread](http://www.reddit.com/r/hiphopheads/comments/1vxdag/guys_i_need_a_favor/)
+-Samples were from this [reddit thread](http://www.reddit.com/r/DJs/comments/1vhaez/sample_pack_not_sure_if_anyone_is_interested_but/)
+-Beat loops were from [here](http://www.stayonbeat.com/2013/11/16/free-trap-drum-loops/)
 
