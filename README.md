@@ -25,7 +25,8 @@ Run:
 - samplesdirectory is if you want to use your own custom samples
 
 Wrote and tested with mp3 files, however the following formats should also work:
-wav, au, ogg, m4a, mp4.
+wav, au, ogg, m4a, mp4. I left my API key in the code if you want to try it out. If you want to use it for your own purposes please create your own Echonest developer account and use your own key. 
+I left the run_samples.py in the project to run through samples and make sure they are compatible with the echonest library (some of mine failed)
 
 #Acknowledgements
 - A lot of the code is from the echonest library examples
